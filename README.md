@@ -12,7 +12,7 @@ I combine strong technical knowledge with a broad digital skillset. My fascinati
 ### 🧠 Profile
 
 * 💻 Full-Stack Developer & Test Automation Engineer
-* 🚀 Lead Software Developer & Architect at **AP Gaming Community** (2025–present)
+* 🚀 Lead Software Developer & Tester at **AP Gaming Community** (2025–present)
 * 🎓 Bachelor's in Informatics - IT & Software (2024–2026)
 * 🎓 Associate Degree in Programming (2022–2024)
 * 📜 Certified in Web Design (HTML5/CSS3) & SEO
